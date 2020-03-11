@@ -1,6 +1,6 @@
 module github.com/streamrail/s3gof3r
 
-go 1.13
+go 1.11
 
 require (
 	github.com/jessevdk/go-flags v1.4.0
